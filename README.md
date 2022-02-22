@@ -1,6 +1,6 @@
-# DI
+# Introduce
 Dependency injection for Go.
-# Get Start
+# Getting Started
 Install
 ```shell
 go get -u github.com/asktable/di
